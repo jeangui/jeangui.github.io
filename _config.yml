@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.innoloco.com
+title: Innoloco
+email: info@innoloco.com
+description: > # "Where technology meet fashion. Beautifull and usefull wearables for women.
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/innoloco
+  - title: github
+    url: https://github.com/innoloco
+  - title: linkedin
+    url: 
